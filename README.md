@@ -9,10 +9,15 @@ The dataset we used is from data.world(https://data.world/crowdflower/brands-and
 
 ## Project Steps
 Business Understanding: This was to get an overview of what the project is about and it's goal.
+
 Data Understanding:Describe the data source and properties
+
 Data Preparation: Handling missing values,drop irrelevant features,Renaming columns,Checking for unique values.
+
 Text Cleaning:Text data often requires cleaning and preprocessing,this is to remove retweets,special characters mentions so as to improve text quality
+
 Exploratory Data Analysis: Summarizing the main characteristics and patterns in the data.
+
 Modelling
 
 Link to presententation slides
