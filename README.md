@@ -1,4 +1,4 @@
-# # TWITTER SENTIMENT ANALYSIS FOR APPLE AND GOOGLE PRODUCTS
+#  TWITTER SENTIMENT ANALYSIS FOR APPLE AND GOOGLE PRODUCTS
 ## Introduction
 
 In the modern world, social media has a significant impact not only on our personal lives but also on the daily functioning of businesses. With increased global connectivity it is essential for businesses to accurately gauge public sentiment regarding their products and brand and swiftly respond to evolving trends. This helps businesses maintain relevance and increase profits
